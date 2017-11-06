@@ -1,0 +1,22 @@
+{
+  "name": "simpleboggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamTheCry/simpleBoggle.git"
+  },
+  "author": "Corey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamTheCry/simpleBoggle/issues"
+  },
+  "homepage": "https://github.com/IamTheCry/simpleBoggle#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
